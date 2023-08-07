@@ -12,7 +12,7 @@ const CategoryForm = ({ categories, category, handleCategoryChange }) => {
                 </select>
             </form>
         </div>
-    )
+    );
 };
 
 export default CategoryForm;
